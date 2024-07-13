@@ -1,0 +1,16 @@
+# Python
+   __pycache__/
+   *.py[cod]
+   
+   # Virtual Environment
+   venv/
+   
+   # Environment variables
+   .env
+   
+   # Generated files
+   static/*.mp3
+   
+   # OS generated files
+   .DS_Store
+   Thumbs.db
